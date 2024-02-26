@@ -4,7 +4,7 @@
 
 #### More will come *soon* ####
 
-
+helpful resources 
 
 
 https://www.youtube.com/watch?v=Vg9rrOFmwHo
