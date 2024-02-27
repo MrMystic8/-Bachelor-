@@ -17,3 +17,6 @@ helpful resources
 - https://www.youtube.com/watch?v=bOFVDu5zxvA
 
 - https://www.youtube.com/watch?v=iOTWZI4RHA8
+- - https://www.youtube.com/watch?v=wuBda_ywTyk
+
+https://www.youtube.com/watch?v=i94PWV0WrxE
