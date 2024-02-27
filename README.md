@@ -7,10 +7,11 @@
 helpful resources 
 
 
-https://www.youtube.com/watch?v=Vg9rrOFmwHo
-https://www.youtube.com/watch?v=qRFR0_FvkSs
+- https://www.youtube.com/watch?v=Vg9rrOFmwHo
 
-https://www.sparkfun.com/products/16327
+- https://www.youtube.com/watch?v=qRFR0_FvkSs
 
-https://www.cytrontech.vn/tutorial/reading-qr-code-using-raspberry-pi-camera
-https://www.youtube.com/watch?v=bOFVDu5zxvA
+- https://www.sparkfun.com/products/16327
+
+- https://www.cytrontech.vn/tutorial/reading-qr-code-using-raspberry-pi-camera
+- https://www.youtube.com/watch?v=bOFVDu5zxvA
