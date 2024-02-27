@@ -15,3 +15,5 @@ helpful resources
 
 - https://www.cytrontech.vn/tutorial/reading-qr-code-using-raspberry-pi-camera
 - https://www.youtube.com/watch?v=bOFVDu5zxvA
+
+- https://www.youtube.com/watch?v=iOTWZI4RHA8
