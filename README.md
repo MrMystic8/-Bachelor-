@@ -44,5 +44,3 @@ As a result of this thesis work, an innovative system for counting and analyzing
 - A profitable forecast indicates that it is more appropriate to optimize a specific machine rather than investing millions in brand new machines, which would take longer to integrate into the busy workflow.
 
 --- 
-
-This formatting should now be clear, structured, and ready for inclusion in your GitHub repository.
